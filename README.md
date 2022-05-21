@@ -1,4 +1,7 @@
-### Olá 🙋🏻‍♂️, eu sou o diegoMarks!
+### Olá 🙋🏻‍♂️, eu me chamo Diego Alejandro Marks, prazer em conhecê-lo!
+
+- 🔭 Atualmente trabalho como trainee de programação.
+- 🌱 Estudando Java para Back-end
 
 
 <div align="center">
@@ -8,17 +11,15 @@
 </div>
   
 <div style="display: inline_block"><br>
-
   <img align="center" alt="Diego-Java" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Diego-Spring" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
 </div>
   
 ## 
-  
-
-  
-  
  
- 
-  <a href = "mailto:diegomarks1806@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diego-alejandro-marks/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+ <div>
+  <a href = "mailto:diegomarks1806@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diego-alejandro-marks/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+  
+  
