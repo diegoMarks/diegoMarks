@@ -1,7 +1,7 @@
 ### Olá 🙋🏻‍♂️, eu me chamo Diego Alejandro Marks, prazer em conhecê-lo!
 
 - 🔭 Atualmente trabalho como trainee de programação.
-- 🌱 Estudando Java para Back-end
+- 🌱 Estou sempre buscando me aperfeiçoar na área de Desenvolvimento de Software.
 
 
 <div align="center">
